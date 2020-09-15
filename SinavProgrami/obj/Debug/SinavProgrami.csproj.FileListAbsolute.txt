@@ -8,23 +8,13 @@ C:\Users\ugur7\source\repos\SinavProgrami\SinavProgrami\obj\Debug\SinavProgrami.
 C:\Users\ugur7\source\repos\SinavProgrami\SinavProgrami\obj\Debug\SinavProgrami.csproj.CoreCompileInputs.cache
 C:\Users\ugur7\source\repos\SinavProgrami\SinavProgrami\obj\Debug\SinavProgrami.exe
 C:\Users\ugur7\source\repos\SinavProgrami\SinavProgrami\obj\Debug\SinavProgrami.pdb
-C:\Users\CAN\Desktop\SinavProgrami (1)\SinavProgrami\SinavProgrami\bin\Debug\SinavProgrami.exe.config
-C:\Users\CAN\Desktop\SinavProgrami (1)\SinavProgrami\SinavProgrami\bin\Debug\SinavProgrami.exe
-C:\Users\CAN\Desktop\SinavProgrami (1)\SinavProgrami\SinavProgrami\bin\Debug\SinavProgrami.pdb
-C:\Users\CAN\Desktop\SinavProgrami (1)\SinavProgrami\SinavProgrami\obj\Debug\SinavProgrami.csprojAssemblyReference.cache
-C:\Users\CAN\Desktop\SinavProgrami (1)\SinavProgrami\SinavProgrami\obj\Debug\SinavProgrami.Form1.resources
-C:\Users\CAN\Desktop\SinavProgrami (1)\SinavProgrami\SinavProgrami\obj\Debug\SinavProgrami.Properties.Resources.resources
-C:\Users\CAN\Desktop\SinavProgrami (1)\SinavProgrami\SinavProgrami\obj\Debug\SinavProgrami.csproj.GenerateResource.cache
-C:\Users\CAN\Desktop\SinavProgrami (1)\SinavProgrami\SinavProgrami\obj\Debug\SinavProgrami.csproj.CoreCompileInputs.cache
-C:\Users\CAN\Desktop\SinavProgrami (1)\SinavProgrami\SinavProgrami\obj\Debug\SinavProgrami.exe
-C:\Users\CAN\Desktop\SinavProgrami (1)\SinavProgrami\SinavProgrami\obj\Debug\SinavProgrami.pdb
-C:\Users\CAN\Desktop\Yeni WinRAR ZIP arşivi (2)\SinavProgrami (1)\SinavProgrami\SinavProgrami\obj\Debug\SinavProgrami.csprojAssemblyReference.cache
-C:\Users\CAN\Desktop\Yeni WinRAR ZIP arşivi (2)\SinavProgrami (1)\SinavProgrami\SinavProgrami\obj\Debug\SinavProgrami.Form1.resources
-C:\Users\CAN\Desktop\Yeni WinRAR ZIP arşivi (2)\SinavProgrami (1)\SinavProgrami\SinavProgrami\obj\Debug\SinavProgrami.Properties.Resources.resources
-C:\Users\CAN\Desktop\Yeni WinRAR ZIP arşivi (2)\SinavProgrami (1)\SinavProgrami\SinavProgrami\obj\Debug\SinavProgrami.csproj.GenerateResource.cache
-C:\Users\CAN\Desktop\Yeni WinRAR ZIP arşivi (2)\SinavProgrami (1)\SinavProgrami\SinavProgrami\obj\Debug\SinavProgrami.csproj.CoreCompileInputs.cache
-C:\Users\CAN\Desktop\Yeni WinRAR ZIP arşivi (2)\SinavProgrami (1)\SinavProgrami\SinavProgrami\obj\Debug\SinavProgrami.exe
-C:\Users\CAN\Desktop\Yeni WinRAR ZIP arşivi (2)\SinavProgrami (1)\SinavProgrami\SinavProgrami\obj\Debug\SinavProgrami.pdb
-C:\Users\CAN\Desktop\Yeni WinRAR ZIP arşivi (2)\SinavProgrami (1)\SinavProgrami\SinavProgrami\bin\Debug\SinavProgrami.exe.config
-C:\Users\CAN\Desktop\Yeni WinRAR ZIP arşivi (2)\SinavProgrami (1)\SinavProgrami\SinavProgrami\bin\Debug\SinavProgrami.exe
-C:\Users\CAN\Desktop\Yeni WinRAR ZIP arşivi (2)\SinavProgrami (1)\SinavProgrami\SinavProgrami\bin\Debug\SinavProgrami.pdb
+C:\Users\CAN\Desktop\Yeni WinRAR ZIP arşivi (2)\SinavProgrami\SinavProgrami\bin\Debug\SinavProgrami.exe.config
+C:\Users\CAN\Desktop\Yeni WinRAR ZIP arşivi (2)\SinavProgrami\SinavProgrami\bin\Debug\SinavProgrami.exe
+C:\Users\CAN\Desktop\Yeni WinRAR ZIP arşivi (2)\SinavProgrami\SinavProgrami\bin\Debug\SinavProgrami.pdb
+C:\Users\CAN\Desktop\Yeni WinRAR ZIP arşivi (2)\SinavProgrami\SinavProgrami\obj\Debug\SinavProgrami.csprojAssemblyReference.cache
+C:\Users\CAN\Desktop\Yeni WinRAR ZIP arşivi (2)\SinavProgrami\SinavProgrami\obj\Debug\SinavProgrami.Form1.resources
+C:\Users\CAN\Desktop\Yeni WinRAR ZIP arşivi (2)\SinavProgrami\SinavProgrami\obj\Debug\SinavProgrami.Properties.Resources.resources
+C:\Users\CAN\Desktop\Yeni WinRAR ZIP arşivi (2)\SinavProgrami\SinavProgrami\obj\Debug\SinavProgrami.csproj.GenerateResource.cache
+C:\Users\CAN\Desktop\Yeni WinRAR ZIP arşivi (2)\SinavProgrami\SinavProgrami\obj\Debug\SinavProgrami.csproj.CoreCompileInputs.cache
+C:\Users\CAN\Desktop\Yeni WinRAR ZIP arşivi (2)\SinavProgrami\SinavProgrami\obj\Debug\SinavProgrami.exe
+C:\Users\CAN\Desktop\Yeni WinRAR ZIP arşivi (2)\SinavProgrami\SinavProgrami\obj\Debug\SinavProgrami.pdb

@@ -44,7 +44,6 @@ namespace SinavProgrami
             TablePanel.HorizontalScroll.Visible = false;
             TablePanel.HorizontalScroll.Maximum = 0;
             TablePanel.AutoScroll = true;
-
         }
         private void classRoomComBox_SelectedIndexChanged(object sender, EventArgs e)
         {

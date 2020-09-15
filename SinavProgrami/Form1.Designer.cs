@@ -60,7 +60,7 @@
             this.label1.Location = new System.Drawing.Point(11, 18);
             this.label1.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(95, 39);
+            this.label1.Size = new System.Drawing.Size(58, 24);
             this.label1.TabIndex = 1;
             this.label1.Tag = "";
             this.label1.Text = "DERS";
@@ -72,7 +72,7 @@
             this.label2.Location = new System.Drawing.Point(11, 57);
             this.label2.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(182, 39);
+            this.label2.Size = new System.Drawing.Size(111, 24);
             this.label2.TabIndex = 2;
             this.label2.Tag = "";
             this.label2.Text = "ÖĞRETMEN";
@@ -84,7 +84,7 @@
             this.label4.Location = new System.Drawing.Point(11, 136);
             this.label4.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(142, 39);
+            this.label4.Size = new System.Drawing.Size(87, 24);
             this.label4.TabIndex = 4;
             this.label4.Tag = "";
             this.label4.Text = "DERSLİK";
@@ -96,7 +96,7 @@
             this.label5.Location = new System.Drawing.Point(11, 196);
             this.label5.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(258, 39);
+            this.label5.Size = new System.Drawing.Size(158, 24);
             this.label5.TabIndex = 5;
             this.label5.Tag = "";
             this.label5.Text = "ÖĞRENCİ SAYISI";
@@ -108,7 +108,7 @@
             this.label6.Location = new System.Drawing.Point(11, 98);
             this.label6.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(228, 39);
+            this.label6.Size = new System.Drawing.Size(139, 24);
             this.label6.TabIndex = 6;
             this.label6.Tag = "";
             this.label6.Text = "KAÇINCI SINIF";
@@ -120,7 +120,7 @@
             this.label7.Location = new System.Drawing.Point(183, 6);
             this.label7.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(109, 39);
+            this.label7.Size = new System.Drawing.Size(67, 24);
             this.label7.TabIndex = 7;
             this.label7.Tag = "";
             this.label7.Text = "TARİH";
@@ -130,7 +130,7 @@
             this.classComBox.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.classComBox.Font = new System.Drawing.Font("Tahoma", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.classComBox.FormattingEnabled = true;
-            this.classComBox.ItemHeight = 33;
+            this.classComBox.ItemHeight = 21;
             this.classComBox.Items.AddRange(new object[] {
             "SINIF 1 (YEŞİL)",
             "SINIF 2 (MAVİ)",
@@ -139,7 +139,7 @@
             this.classComBox.Location = new System.Drawing.Point(160, 93);
             this.classComBox.Margin = new System.Windows.Forms.Padding(5, 4, 5, 4);
             this.classComBox.Name = "classComBox";
-            this.classComBox.Size = new System.Drawing.Size(222, 41);
+            this.classComBox.Size = new System.Drawing.Size(222, 29);
             this.classComBox.TabIndex = 2;
             this.classComBox.TabStop = false;
             this.classComBox.Tag = "";
@@ -150,14 +150,14 @@
             this.timeComBox.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.timeComBox.Font = new System.Drawing.Font("Tahoma", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.timeComBox.FormattingEnabled = true;
-            this.timeComBox.ItemHeight = 33;
+            this.timeComBox.ItemHeight = 21;
             this.timeComBox.Items.AddRange(new object[] {
             "1 HAFTALIK",
             "2 HAFTALIK"});
             this.timeComBox.Location = new System.Drawing.Point(67, 42);
             this.timeComBox.Margin = new System.Windows.Forms.Padding(5, 4, 5, 4);
             this.timeComBox.Name = "timeComBox";
-            this.timeComBox.Size = new System.Drawing.Size(306, 41);
+            this.timeComBox.Size = new System.Drawing.Size(306, 29);
             this.timeComBox.TabIndex = 0;
             this.timeComBox.TabStop = false;
             this.timeComBox.Tag = "";
@@ -167,7 +167,7 @@
             this.classRoomComBox.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.classRoomComBox.Font = new System.Drawing.Font("Tahoma", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.classRoomComBox.FormattingEnabled = true;
-            this.classRoomComBox.ItemHeight = 33;
+            this.classRoomComBox.ItemHeight = 21;
             this.classRoomComBox.Items.AddRange(new object[] {
             "Bil1",
             "Bil2",
@@ -181,7 +181,7 @@
             this.classRoomComBox.Location = new System.Drawing.Point(160, 132);
             this.classRoomComBox.Margin = new System.Windows.Forms.Padding(5, 4, 5, 4);
             this.classRoomComBox.Name = "classRoomComBox";
-            this.classRoomComBox.Size = new System.Drawing.Size(222, 41);
+            this.classRoomComBox.Size = new System.Drawing.Size(222, 29);
             this.classRoomComBox.TabIndex = 3;
             this.classRoomComBox.TabStop = false;
             this.classRoomComBox.Tag = "";
@@ -194,7 +194,7 @@
             this.classRoomLimit.Location = new System.Drawing.Point(239, 165);
             this.classRoomLimit.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.classRoomLimit.Name = "classRoomLimit";
-            this.classRoomLimit.Size = new System.Drawing.Size(221, 25);
+            this.classRoomLimit.Size = new System.Drawing.Size(143, 17);
             this.classRoomLimit.TabIndex = 15;
             this.classRoomLimit.Tag = "";
             this.classRoomLimit.Text = "DERSLİK KAPASİTESİ:";
@@ -210,7 +210,7 @@
             0,
             0});
             this.numberOfStudents.Name = "numberOfStudents";
-            this.numberOfStudents.Size = new System.Drawing.Size(190, 40);
+            this.numberOfStudents.Size = new System.Drawing.Size(190, 28);
             this.numberOfStudents.TabIndex = 4;
             this.numberOfStudents.TabStop = false;
             this.numberOfStudents.Tag = "";
@@ -241,7 +241,7 @@
             this.LessonNameInput.Location = new System.Drawing.Point(160, 14);
             this.LessonNameInput.MaxLength = 30;
             this.LessonNameInput.Name = "LessonNameInput";
-            this.LessonNameInput.Size = new System.Drawing.Size(222, 40);
+            this.LessonNameInput.Size = new System.Drawing.Size(222, 28);
             this.LessonNameInput.TabIndex = 0;
             this.LessonNameInput.TabStop = false;
             this.LessonNameInput.Tag = "";
@@ -275,7 +275,7 @@
             this.dateTimePicker1.Location = new System.Drawing.Point(67, 78);
             this.dateTimePicker1.MinDate = new System.DateTime(2020, 7, 18, 0, 0, 0, 0);
             this.dateTimePicker1.Name = "dateTimePicker1";
-            this.dateTimePicker1.Size = new System.Drawing.Size(306, 40);
+            this.dateTimePicker1.Size = new System.Drawing.Size(306, 28);
             this.dateTimePicker1.TabIndex = 1;
             this.dateTimePicker1.TabStop = false;
             this.dateTimePicker1.Tag = "";
@@ -306,7 +306,7 @@
             this.LessonMarkCheckBox.AutoSize = true;
             this.LessonMarkCheckBox.Location = new System.Drawing.Point(388, 14);
             this.LessonMarkCheckBox.Name = "LessonMarkCheckBox";
-            this.LessonMarkCheckBox.Size = new System.Drawing.Size(156, 43);
+            this.LessonMarkCheckBox.Size = new System.Drawing.Size(100, 28);
             this.LessonMarkCheckBox.TabIndex = 5;
             this.LessonMarkCheckBox.TabStop = false;
             this.LessonMarkCheckBox.Text = "İşaretle";
@@ -318,7 +318,7 @@
             this.TeacherNameText.Location = new System.Drawing.Point(160, 52);
             this.TeacherNameText.MaxLength = 30;
             this.TeacherNameText.Name = "TeacherNameText";
-            this.TeacherNameText.Size = new System.Drawing.Size(222, 40);
+            this.TeacherNameText.Size = new System.Drawing.Size(222, 28);
             this.TeacherNameText.TabIndex = 1;
             this.TeacherNameText.TabStop = false;
             this.TeacherNameText.Tag = "";
@@ -337,9 +337,9 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(18F, 39F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1034, 729);
+            this.ClientSize = new System.Drawing.Size(1042, 753);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.TablePanel);
